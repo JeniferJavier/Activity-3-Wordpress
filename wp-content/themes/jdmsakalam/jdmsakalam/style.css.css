@@ -1,0 +1,516 @@
+/*
+	@name showroom
+	/*
+	Theme Name: jdmsakalam
+	Theme URI: jdmsakalam.com
+	Description: Amazing store
+	Version: 1.0
+	Author: Jen
+	Author URI: jdmsakalam.com
+*/
+*/
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1366px; height: 768px; margin-left: auto; margin-right: auto;  }
+
+
+#aboutusmask {
+	top: 31px;
+	left: 1144px;
+	width: 93px;
+	height: 32px;
+}
+
+#about_us {
+	top: 0px;
+	left: 0px;
+	width: 91px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#_bg__contact {
+	top: 0px;
+	left: 0px;
+	width: 1371px;
+	height: 768px;
+	background:rgba(255,255,255,255);
+}
+
+#_bg__about {
+	top: 0px;
+	left: 0px;
+	width: 1371px;
+	height: 768px;
+	background:rgba(255,255,255,255);
+}
+
+#pexels_ylanite_koppens_796602 {
+	top: 0px;
+	left: 0px;
+	width: 1371px;
+	height: 909.37896728516px;
+}
+
+#mask_group_6 {
+	top: 0px;
+	left: 0px;
+	width: 1370px;
+	height: 684px;
+}
+
+#mask_group_1 {
+	top: 0px;
+	left: 0px;
+	width: 1370px;
+	height: 84px;
+}
+
+#layer_3_copy {
+	top: 146px;
+	left: 388px;
+	width: 595px;
+	height: 309px;
+}
+
+#jdmsakalam_provides_rare_and_collectible_jdm_japanese_domestic_market__cars__we_also_buy_and_sell_jdm_car_parts__jdmsakalam_serves_collectors__enthusiasts_and_dealers_and__we_are_passionate_about_great_jdm_cars__we_also_provide_tuning_and_dyno_for_your_jdm {
+	top: 575.4443359375px;
+	left: 215px;
+	width: 933px;
+	height: 142.5px;
+	overflow: hidden;
+	font-family: NirmalaUI;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	color:#f2de05;
+}
+
+#mask_group_2 {
+	top: 0px;
+	left: 7px;
+	width: 571px;
+	height: 78px;
+}
+
+#contact {
+	top: 31px;
+	left: 1261px;
+	width: 77px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#imus_phone {
+	top: 123px;
+	left: 885px;
+	width: 419px;
+	height: 470.5px;
+	overflow: hidden;
+	font-family: Nirmala UI;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	color:#000000;
+}
+
+
+
+#layer_6 {
+	top: 706px;
+	left: 398px;
+	width: 37px;
+	height: 33px;
+}
+
+
+#layer_7 {
+	top: 706px;
+	left: 489px;
+	width: 45px;
+	height: 33px;
+}
+
+
+#layer_4_copy {
+	top: 127px;
+	left: 37px;
+	width: 726px;
+	height: 463px;
+}
+
+
+#rectangle_11 {
+	opacity:0.68;
+	top: 691px;
+	left: 0px;
+	width: 1373px;
+	height: 79px;
+	border: 1px solid #707070;
+	background:rgba(0,0,0,255);
+}
+
+#follow_us_on_social_media {
+	top: 713px;
+	left: 33px;
+	width: 265px;
+	height: 35.5px;
+	overflow: hidden;
+	font-family: Helvetica;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 25px;
+	color:#ffffff;
+}
+
+#_bg__showroom {
+	top: 0px;
+	left: 0px;
+	width: 1371px;
+	height: 768px;
+	background:rgba(255,255,255,255);
+}
+
+
+#hahahah {
+	top: 0px;
+	left: 0px;
+	width: 1370px;
+	height: 768px;
+}
+
+
+#mask_group_4 {
+	top: 0px;
+	left: 0px;
+	width: 1370px;
+	height: 768px;
+}
+
+#shop_by_categories {
+	top: 130px;
+	left: 492px;
+	width: 365px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Unispace-Bold;
+	font-size: 42px;
+	text-align: center;
+	line-height: 50px;
+	color:#ffffff;
+}
+
+
+#car_mirrors {
+	top: 285px;
+	left: 167px;
+	width: 213px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Unispace-Bold;
+	font-size: 42px;
+	text-align: center;
+	line-height: 50px;
+	color:#ffffff;
+}
+
+
+#bumpers {
+	top: 285px;
+	left: 593px;
+	width: 169px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Unispace-Bold;
+	font-size: 42px;
+	text-align: center;
+	line-height: 50px;
+	color:#ffffff;
+}
+
+
+#car_hoods {
+	top: 285px;
+	left: 978px;
+	width: 201px;
+	height: 85px;
+	overflow: hidden;
+	font-family: Unispace-Bold;
+	font-size: 42px;
+	text-align: center;
+	line-height: 50px;
+	color:#ffffff;
+}
+
+
+#dodge_charger_front_bumper {
+	top: 352px;
+	left: 509.86669921875px;
+	width: 350.60009765625px;
+	height: 204.79998779297px;
+}
+
+#weight_1560kg {
+	top: 642px;
+	left: 766px;
+	width: 115px;
+	height: 111px;
+	overflow: hidden;
+	font-family: Unispace-Bold;
+	font-size: 34px;
+	text-align: center;
+	line-height: 41px;
+	color:#ffffff;
+}
+
+
+#topspeed_265_542kph {
+	top: 642px;
+	left: 927px;
+	width: 179px;
+	height: 111px;
+	overflow: hidden;
+	font-family: Unispace-Bold;
+	font-size: 34px;
+	text-align: center;
+	line-height: 41px;
+	color:#ffffff;
+}
+
+
+#_0_60mph_4_8secs {
+	top: 642px;
+	left: 1145px;
+	width: 143px;
+	height: 111px;
+	overflow: hidden;
+	font-family: Unispace-Bold;
+	font-size: 34px;
+	text-align: center;
+	line-height: 41px;
+	color:#ffffff;
+}
+
+
+#_arrow_right {
+	top: 391px;
+	left: 1279px;
+	width: 79px;
+	height: 73px;
+}
+
+
+#_arrow_left {
+	top: 391px;
+	left: 17px;
+	width: 77px;
+	height: 73px;
+}
+
+
+#mask_group_1 {
+	top: 0px;
+	left: 0px;
+	width: 1370px;
+	height: 84px;
+}
+
+
+#_jdm_parts {
+	top: 31px;
+	left: 1023px;
+	width: 97px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_about_us {
+	top: 31px;
+	left: 1144px;
+	width: 91px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#_contact {
+	top: 31px;
+	left: 1260px;
+	width: 77px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_10 {
+	top: 31px;
+	left: 898.99993896484px;
+	width: 106.00006103516px;
+	height: 32.000061035156px;
+}
+
+#showroom {
+	top: 0px;
+	left: 0px;
+	width: 106px;
+	height: 42.500061035156px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#_showroom {
+	top: 31px;
+	left: 899px;
+	width: 106px;
+	height: 42.5px;
+	overflow: hidden;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_12 {
+	top: 31px;
+	left: 1261px;
+	width: 78px;
+	height: 32px;
+}
+
+#shape_1 {
+	top: 29px;
+	left: 0px;
+	width: 106px;
+	height: 3px;
+	background:rgba(241,222,5,255);
+}
+
+
+#mask_group_2 {
+	top: 0px;
+	left: 7px;
+	width: 571px;
+	height: 78px;
+}
+
+
+#icon_awesome_shopping_cart {
+	top: 31.288940429688px;
+	left: 851.73333740234px;
+	width: 33.799987792969px;
+	height: 25.599975585938px;
+}
+
+
+#nissan_skyline_gt_r_r34_in_line_6_cylinder_twin_turbo_6_speed_manual_4wd {
+	top: 165px;
+	left: 114px;
+	width: 509px;
+	height: 178px;
+	overflow: hidden;
+	font-family: Helvetica;
+	font-size: 42px;
+	text-align: center;
+	line-height: 50px;
+	color:#ffffff;
+}
+
+
+#toyota_supra_mk4 {
+	top: 165px;
+	left: 114px;
+	width: 509px;
+	height: 178px;
+	overflow: hidden;
+	font-family: Helvetica;
+	font-size: 42px;
+	text-align: center;
+	line-height: 50px;
+	color:#ffffff;
+
+}
+#group_3 {
+	top: 352px;
+	left: 106px;
+	width: 351px;
+	height: 205.00006103516px;
+}
+
+#rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 369px;
+	height: 223px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 9px solid #f1de05;
+	background:rgba(255,255,255,255);
+}
+
+#side_view_mirror {
+	top: 14px;
+	left: 34px;
+	width: 291px;
+	height: 191px;
+}
+
+#group_2 {
+	top: 352px;
+	left: 914px;
+	width: 350px;
+	height: 205.00006103516px;
+}
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 368px;
+	height: 223px;
+	-ms-border-radius: 28px;
+	-o-border-radius: 28px;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 9px solid #ffdb00;
+	background:rgba(255,255,255,255);
+}
+
+
+#ram_air_hood_scoop {
+	top: 38px;
+	left: 30px;
+	width: 291px;
+	height: 128px;
+}
