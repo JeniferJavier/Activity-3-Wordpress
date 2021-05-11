@@ -37,6 +37,14 @@ header
 	color: #262626;
 }
 
+
+}
+.map
+{
+ 
+ 
+}
+
 .nav-item
 {
 	font-weight: 800;
@@ -55,6 +63,14 @@ header
 {
 	color: #cb2626;
 	padding:5px 15px;
+}
+
+
+}
+.shop-container
+{
+  margin-left: auto;
+  margin-right: auto;
 }
 
 

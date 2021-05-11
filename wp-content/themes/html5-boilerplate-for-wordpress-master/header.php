@@ -58,7 +58,7 @@
                 <a class="nav-link" href="http://localhost/jdmsakalam/showroom/">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="http://localhost/jdmsakalam/jdm-parts/">JDM Parts</a>
+                <a class="nav-link" href="http://localhost/jdmsakalam/shop/">JDM Cars</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="http://localhost/jdmsakalam/contact/">Contact</a>
@@ -74,4 +74,5 @@
         <div class="container">
                     </div>
     </section>
+
 
